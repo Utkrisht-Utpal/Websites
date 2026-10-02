@@ -1,0 +1,29 @@
+.searchbar {
+    display: none;
+}
+
+.search>img {
+    background: none;
+    padding: 0;
+    width: 28px;
+}
+
+.createbtn{
+    padding:8px;
+    font-size:0;
+}
+
+.createbtn img{
+    margin:0;
+}
+
+.hamburger>img {
+    width: 34px;
+    height: auto;
+    cursor: pointer;
+}
+
+
+.n-hide{
+    display: none;
+}
